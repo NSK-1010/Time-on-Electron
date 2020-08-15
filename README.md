@@ -11,7 +11,8 @@ Git
 ```
 
 ## 実行方法
-ターミナルでこのコマンド実行してください。　　　　
+ターミナルでこのコマンド実行してください。
+
 OSは問いません。
 ```
 git clone https://github.com/NSK-1010/Time-of-Electron.git
